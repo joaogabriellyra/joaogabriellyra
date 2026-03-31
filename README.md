@@ -1,7 +1,6 @@
-Welcome! My name is João Gabriel Lyra, i'm a full stack developer, passionate about software architecture, solving problems and end-to-end solutions. 
-Here you can see my projects, hope you like it.
-
-I love watch CS (e-sports/esports in general) and soccer. I’m currently searching a job and working as a freelancer. If you would like to discuss these things, just add me on Linkedin. If you need more information or ask me anything feel free to contact.
+Hey! I'm João Gabriel, a Full Stack Developer currently working at TSP Technology on a digital payments platform.
+I build REST APIs with NestJS and TypeScript, work with AWS, PostgreSQL, and Python on the back-end, and develop interfaces with React and Next.js on the front. I care about clean architecture, good tests, and code that actually scales.
+Feel free to explore my projects — and if you want to connect, find me on LinkedIn!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriellyra&hide=css&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
